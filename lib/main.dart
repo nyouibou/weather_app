@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import './provider/weatherProvider.dart';
-import 'screens/homeScreen.dart';
-import 'screens/sevenDayForecastDetailScreen.dart';
+import 'presentation/homeScreen.dart';
+import 'presentation/sevenDayForecastDetailScreen.dart';
 
 void main() {
   runApp(
